@@ -1,0 +1,103 @@
+.summary-container {
+display: flex;
+justify-content: space-evenly;
+margin-bottom: 10px;
+}
+.log-container {
+    border-radius: 10px;
+    padding: 10px;
+    width: 49%;
+}
+.exer {
+    background-color: rgb(101, 198, 101);
+}
+.fea {
+    background-color: rgb(188, 77, 77);
+}
+.message {
+    background-color: rgb(100, 100, 222);
+    width: 70%;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+.no-message {
+display: hidden;
+}
+/* BUTTON SORTS */
+.btn-sort{
+    border:none;
+    height: 25px;
+    width: 25px;
+}
+
+/* SLIDERS */
+.each-slide-effect > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  height: 400px;
+}
+
+.each-slide-effect span {
+  padding: 20px;
+  font-size: 20px;
+  background: #efefef;
+  text-align: center;
+}
+/* FOOTER */
+.container-footer {
+    border: 1px #353A40 solid;
+    margin-top: 50px;
+    font-size: 10px;
+    color: #efefef;
+    background-color: #353A40;
+
+}
+.container-card {
+    margin: 10px;
+    display: flex;
+
+}
+.card {
+    border: 1px solid #353A40;
+    margin: 10px;
+    width: 25%;
+    background-color: #353A40;
+
+}
+.card h6{
+    color: #c0c0c0af;
+
+}
+.end-links {
+    text-align: center;
+}
+/* ACCOUNTS */
+.accounts{
+    text-align: center;
+}
+
+/* ALL BANNERS */
+.banner-left {
+    border-radius: 50px;
+    float: left;
+    position: sticky;
+    top: 0;
+    padding: 10px;
+    width: 310px;
+    height: 500px;
+    object-fit: cover;
+}
+.banner-right {
+    border-radius: 50px;
+    float: right;
+    position: sticky;
+    top: 0;
+    padding: 10px;
+    width: 310px;
+    height: 500px;
+    object-fit: cover;
+}
