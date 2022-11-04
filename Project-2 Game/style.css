@@ -1,0 +1,135 @@
+@font-face {
+    font-family:Agoxes;
+    src: url(fonts/AGOXES\ GAME.otf);
+}
+@font-face {
+    font-family: jelek;
+    src: url(fonts/Jelek.ttf);
+}
+@font-face {
+    font-family: Bulkypix;
+    src: url(fonts/BULKYPIX.TTF);
+}
+body {
+    background-image: url(img/81mz.gif);
+    width: 100vw;
+}
+div{
+    width: 50%;
+    margin: auto;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    font-family: Agoxes;
+}
+#title1 {
+    color: red;
+    font-size: 6vw;
+}
+#title2 {
+    color: orange;
+    font-size: 6vw;
+}
+#title3 {
+    color: yellow;
+    font-size: 6vw;
+}
+#title4 {
+    color: green;
+    font-size: 6vw;
+}
+#title5 {
+    color: blue;
+    font-size: 6vw;
+}
+#title6 {
+    color: violet;
+    font-size: 6vw;
+}
+#title7 {
+    color: red;
+    font-size: 6vw;
+}
+#title8 {
+    color: orange;
+    font-size: 6vw;
+}
+#title9 {
+    color: yellow;
+    font-size: 6vw;
+}
+#title10 {
+    color: green;
+    font-size: 6vw;
+}
+#title1 {
+    color: blue;
+    font-size: 6vw;
+}
+
+
+.container h1 {
+    text-align: center;
+    margin-top: 0;
+}
+#displayStatus {
+    text-align: center;
+}
+.container1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border: white dashed 10px;
+    border-radius: 10px;
+    padding: 20px;
+
+}
+.container1 h2 {
+    width: 15vw;
+    height: 15vh;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin: .5%;
+    color:white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btnFunctions {
+    text-align: center;
+    padding: 10PX;
+    
+}
+.btnLevel {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+.status {
+    color: white;
+    font-family: Bulkypix;
+}
+button {
+    font-family: jelek;
+    font-size: 20px;
+    background-color:darkmagenta;
+    border-radius: 20px;
+}
+span {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.soundImage {
+    text-align: center;
+}
+.soundImage img{
+    width: 50px;
+}
+h3 {
+    color: white;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
