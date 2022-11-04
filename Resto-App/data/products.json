@@ -1,0 +1,99 @@
+  [{
+    "id": 1,
+    "item": "Burger",
+    "price": 50,
+    "category": "Food",
+    "image": "https://cdn-icons-png.flaticon.com/512/198/198416.png",
+    "edit": false,
+    "qnty": null
+  },
+  {
+    "id": 2,
+    "item": "Iced Tea",
+    "price": 45,
+    "category": "Drink",
+    "image": "https://cdn-icons-png.flaticon.com/512/1187/1187466.png",
+    "edit": false,
+    "qnty": null
+  },
+  {
+    "id": 3,
+    "item": "Beer",
+    "price": 100,
+    "category": "Drink",
+    "image": "https://cdn-icons-png.flaticon.com/512/737/737994.png",
+    "edit": false,
+    "qnty": null
+  },
+  {
+    "id": 4,
+    "item": "Sugar",
+    "price": 1000,
+    "category": "Dessert",
+    "image": "https://cdn-icons-png.flaticon.com/512/2396/2396713.png",
+    "edit": false,
+    "qnty": null
+  },
+  {
+    "id": 5,
+    "item": "Cupcake",
+    "price": 90,
+    "category": "Dessert",
+    "image": "https://cdn-icons-png.flaticon.com/512/737/737980.png",
+    "edit": false,
+    "qnty": null
+  },
+  {
+    "id": 6,
+    "item": "Water",
+    "price": 20,
+    "category": "Drink",
+    "image": "https://cdn-icons-png.flaticon.com/128/824/824239.png",
+    "edit": false,
+    "qnty": null
+  },
+  {
+    "id": 7,
+    "item": "Pizza",
+    "price": 100,
+    "category": "Food",
+    "image": "https://cdn-icons-png.flaticon.com/512/3132/3132693.png",
+    "edit": false,
+    "qnty": null
+  },
+  {
+    "id": 8,
+    "item": "Biscuit",
+    "price": 10,
+    "category": "Dessert",
+    "image": "https://cdn-icons-png.flaticon.com/512/123/123303.png",
+    "edit": false,
+    "qnty": null
+  },
+  {
+    "id": 9,
+    "item": "Fries",
+    "price": 25,
+    "category": "Food",
+    "image": "https://cdn-icons-png.flaticon.com/512/123/123300.png",
+    "edit": false,
+    "qnty": null
+  },
+  {
+    "id": 10,
+    "item": "Donut",
+    "price": 55,
+    "category": "Dessert",
+    "image": "https://cdn-icons-png.flaticon.com/512/3039/3039972.png",
+    "edit": false,
+    "qnty": null
+  },
+  {
+    "id": 11,
+    "item": "Coffee",
+    "price": 45,
+    "category": "Drink",
+    "image": "https://cdn-icons-png.flaticon.com/512/3127/3127450.png",
+    "edit": false,
+    "qnty": null
+  }]

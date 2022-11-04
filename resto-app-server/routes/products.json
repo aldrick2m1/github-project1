@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "item": "Burger",
+    "price": "50",
+    "category": "Food",
+    "image": "https://cdn-icons-png.flaticon.com/512/198/198416.png",
+    "qnty": 0
+  },
+  {
+    "id": 2,
+    "item": "Iced Tea",
+    "price": "45",
+    "category": "Drink",
+    "image": "https://cdn-icons-png.flaticon.com/512/1187/1187466.png",
+    "qnty": 0
+  },
+  {
+    "id": 3,
+    "item": "Beer",
+    "price": 100,
+    "category": "Drink",
+    "image": "https://cdn-icons-png.flaticon.com/512/737/737994.png",
+    "qnty": 0
+  },
+  {
+    "id": 4,
+    "item": "Sugar",
+    "price": "1000",
+    "category": "Dessert",
+    "image": "https://cdn-icons-png.flaticon.com/512/2396/2396713.png",
+    "qnty": 0
+  }
+]
